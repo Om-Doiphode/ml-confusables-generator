@@ -1,3 +1,8 @@
+# -----------------------------------------------------------------------------
+# Code adapted from TensorFlow Addons under the Apache 2.0 License
+# Source: https://github.com/tensorflow/addons
+# -----------------------------------------------------------------------------
+
 from typing import Union, List
 import tensorflow as tf
 from packaging.version import Version

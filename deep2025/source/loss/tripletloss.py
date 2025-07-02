@@ -1,3 +1,8 @@
+# -----------------------------------------------------------------------------
+# Code adapted from TensorFlow Addons under the Apache 2.0 License
+# Source: https://github.com/tensorflow/addons
+# -----------------------------------------------------------------------------
+
 import tensorflow as tf
 from loss.data_types import TensorLike, FloatTensorLike
 from loss.distances import pairwise_distance, angular_distance

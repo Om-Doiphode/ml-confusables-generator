@@ -1,3 +1,8 @@
+# -----------------------------------------------------------------------------
+# Code adapted from TensorFlow Addons under the Apache 2.0 License
+# Source: https://github.com/tensorflow/addons
+# -----------------------------------------------------------------------------
+
 from loss.data_types import TensorLike
 import tensorflow as tf
 

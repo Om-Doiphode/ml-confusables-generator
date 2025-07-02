@@ -1,3 +1,8 @@
+# -----------------------------------------------------------------------------
+# Code adapted from TensorFlow Addons under the Apache 2.0 License
+# Source: https://github.com/tensorflow/addons
+# -----------------------------------------------------------------------------
+
 import tensorflow as tf
 
 def is_tensor_or_variable(x):
